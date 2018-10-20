@@ -1,0 +1,15 @@
+{
+  "name": "tagbot",
+  "version": "1.2.0",
+  "description": "A bot for discord which tags sounds and messages",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Heroj04",
+  "license": "ISC",
+  "dependencies": {
+    "eris": "^0.7.0",
+    "ytdl-core": "^0.14.2"
+  }
+}
